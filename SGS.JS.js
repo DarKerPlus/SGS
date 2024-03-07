@@ -4,8 +4,8 @@
 // @match       *://my.4399.com/yxsgs/*
 // @match       *://game.4399iw2.com/yxsgs/*
 // @license MIT
-// @version     2.5.4.3
-// @description  打小抄支持网页版和微端，微端文件请加群562224095
+// @version     2.6.6
+// @description  打小抄支持网页版和微端，微端文件请加群12345
 // @author      小麦
 // @run-at       document-start
 // @namespace https://greasyfork.org/users/30284
